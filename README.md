@@ -11,4 +11,4 @@ Desarrollo de un sistema de facturación de llamadas para una central telefónic
 
 A continuación se deja el diagrama de clases (Teórico) que se realizó previamente al desarrollo del código con la herramienta Draw.io:
 
-***************************************Consideraciones: Pueden haber discrepancias entre el código y el diagrama
+***************************************Consideraciones: Pueden haber discrepancias entre el código y el diagrama*
