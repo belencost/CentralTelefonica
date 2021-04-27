@@ -12,3 +12,5 @@
 A continuación se deja el diagrama de clases (Teórico) que se realizó previamente al desarrollo del código con la herramienta Draw.io:
 
 **Consideraciones: Pueden haber discrepancias entre el código y el diagrama**
+
+![CentralTelefonica](https://user-images.githubusercontent.com/75282626/116304741-45458f00-a779-11eb-87fe-14e107e5b476.png)
