@@ -9,6 +9,7 @@ una llamada como el número telefónico de origen y el de destino
 pero no dejarlas representadas. Para este mini proyecto utilicé el módulo doctest porque me parecía el más conveniente dada la corta cantidad
 de lineas de código.
 5. También aprendí a debuggear el código con el módulo pdb. A lo largo del desarrollo lo utilicé.
+6.Como los datos se toman del sistema, me limita a elegir llamadas realizadas en el momento, es decir generar historiales y facturales del mes de abril
 '''
 
 import datetime #Para obtener la fecha y hora
