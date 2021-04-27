@@ -15,6 +15,7 @@ A continuación se deja el diagrama de clases (Teórico) que se realizó previam
 
 
 
-![CeTelefonica](https://user-images.githubusercontent.com/75282626/116306826-f0efde80-a77b-11eb-8520-9051f6a36760.png)
+![DiagClases](https://user-images.githubusercontent.com/75282626/116306982-24326d80-a77c-11eb-8b82-5f91d3780e67.png)
+
 
 
