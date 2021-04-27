@@ -13,7 +13,7 @@ A continuación se deja el diagrama de clases (Teórico) que se realizó previam
 
 **Consideraciones: Pueden haber discrepancias entre el código y el diagrama**
 
-![CTelefonica](https://user-images.githubusercontent.com/75282626/116306724-d0c01f80-a77b-11eb-99c1-fb866346321f.jpg)
+
 
 ![CeTelefonica](https://user-images.githubusercontent.com/75282626/116306826-f0efde80-a77b-11eb-8520-9051f6a36760.png)
 
