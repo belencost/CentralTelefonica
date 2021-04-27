@@ -15,7 +15,8 @@ A continuación se deja el diagrama de clases (Teórico) que se realizó previam
 
 
 
-![DiagClases](https://user-images.githubusercontent.com/75282626/116306982-24326d80-a77c-11eb-8b82-5f91d3780e67.png)
+![DiagClasesCT](https://user-images.githubusercontent.com/75282626/116307123-4fb55800-a77c-11eb-9af3-9be01c64ad9a.png)
+
 
 
 
