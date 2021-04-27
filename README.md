@@ -13,4 +13,5 @@ A continuación se deja el diagrama de clases (Teórico) que se realizó previam
 
 **Consideraciones: Pueden haber discrepancias entre el código y el diagrama**
 
-![CentralTelefonica](https://user-images.githubusercontent.com/75282626/116304741-45458f00-a779-11eb-87fe-14e107e5b476.png)
+![CTelefonica](https://user-images.githubusercontent.com/75282626/116306724-d0c01f80-a77b-11eb-99c1-fb866346321f.jpg)
+
